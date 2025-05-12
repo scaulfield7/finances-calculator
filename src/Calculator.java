@@ -6,7 +6,7 @@ public class Calculator {
     DecimalFormat df = new DecimalFormat("#,###.##");
     private double standardTaxRate = 0.2;
     private double upperTaxRate = 0.4;
-    private double taxRateBand = 36800;
+    private double taxRateBand = 44000;
     private double tax;
     private double salary;
     private double salaryAfterTax;
