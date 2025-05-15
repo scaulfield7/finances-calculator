@@ -1,6 +1,12 @@
 # finances-calculator
 Finances calculator for annual and monthly earnings after Irish tax rates have been applied. Written in Java.
 
+### Prerequisites:
+
+1. Make sure that you have installed a JRE (Java Runtime Environment).
+
+2. Make sure your JRE is accessible from every folder (the relevant path is included in the PATH environment variable).
+
 ### To run:
 
 1. Clone the repository.
